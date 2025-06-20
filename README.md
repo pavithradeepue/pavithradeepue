@@ -3,7 +3,6 @@
 🎓 I'm a B.Tech CSE (Artificial Intelligence) student at **Adi Shankara Institute of Engineering and Technology**, currently in S5.
 💼 Working as a **Student Intern at Gipra Business Solution Pvt. Ltd**, where I'm strengthening my basics in **Web Development** using **Core PHP**, **CodeIgniter**, and **Laravel**.
 
----
 
 ### 💡 About Me
 
@@ -17,21 +16,13 @@
 * 🙌 Volunteered at **DevFest Kochi**, **BRAHMA**, and other tech events
 * 👩‍💻 Looking forward to **collaborate on AI + Web-based projects**
 
----
+
 
 ### 🤝 Let's Connect
 
 * 💬 Ask me about my learning journey, internships, or student life
 * 💡 Always up for a chat about tech, AI ethics, and innovation
 * 📌 Fun Fact: When I’m not coding, you’ll find me watching **sci-fi**, reading **novels**, or scrolling through **reels**
-
----
-
-### 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&style=for-the-badge)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github\&style=for-the-badge)](https://github.com/your-username)
-
 
 
 ## 🌐 Socials:
