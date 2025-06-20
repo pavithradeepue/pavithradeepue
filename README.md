@@ -1,5 +1,37 @@
-# 💫 About Me:
-I'm currently working as a student intern at Gipra Business Solution Pvt Ltd.<br>Strengthening my basics in Web Development using core php, codeigniter and laravel.<br>Looking forward to collaborate on Web development, AI models and applications.<br>Ask me about myself.<br>Fun Fact when i am not coding you can find me watching Sci-fi, reading novels or scrolling reels.<br>Working on projects like VIRA and I'm an enthusiastic student of S5 CSE-AI at Adi Shankara Institute of Engineering and Technology.<br>IEEE member since 2023 and right now i hold the position of Council Coordinator of IEEE RAS SBC ASIET .
+## 👋 Hey there! I'm Pavithra Deepu E
+
+🎓 I'm a B.Tech CSE (Artificial Intelligence) student at **Adi Shankara Institute of Engineering and Technology**, currently in S5.
+💼 Working as a **Student Intern at Gipra Business Solution Pvt. Ltd**, where I'm strengthening my basics in **Web Development** using **Core PHP**, **CodeIgniter**, and **Laravel**.
+
+---
+
+### 💡 About Me
+
+* 🔭 Currently working on projects like **VIRA** (an AI + IoT-based safety system)
+* 💻 Prior experience as an **R\&D Intern at DheeYantra**, focused on **web scraping & data automation**
+* 🤖 Interested in **Web Development**, **AI models**, and **real-world applications**
+* 📚 IEEE Member since 2023:
+
+  * **Council Coordinator** of IEEE RAS SBC ASIET
+  * **SCT Member** of IEEE SB ASIET (2024)
+* 🙌 Volunteered at **DevFest Kochi**, **BRAHMA**, and other tech events
+* 👩‍💻 Looking forward to **collaborate on AI + Web-based projects**
+
+---
+
+### 🤝 Let's Connect
+
+* 💬 Ask me about my learning journey, internships, or student life
+* 💡 Always up for a chat about tech, AI ethics, and innovation
+* 📌 Fun Fact: When I’m not coding, you’ll find me watching **sci-fi**, reading **novels**, or scrolling through **reels**
+
+---
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&style=for-the-badge)](https://www.linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github\&style=for-the-badge)](https://github.com/your-username)
+
 
 
 ## 🌐 Socials:
