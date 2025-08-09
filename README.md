@@ -1,21 +1,19 @@
 ## 👋 Hey there! I'm Pavithra Deepu E
 
 🎓 I'm a B.Tech CSE (Artificial Intelligence) student at **Adi Shankara Institute of Engineering and Technology**, currently in S5.
-💼 Working as a **Student Intern at Gipra Business Solution Pvt. Ltd**, where I'm strengthening my basics in **Web Development** using **Core PHP**, **CodeIgniter**, and **Laravel**.
-
 
 ### 💡 About Me
 
 * 🔭 Currently working on projects like **VIRA** (an AI + IoT-based safety system)
 * 💻 Prior experience as an **R\&D Intern at DheeYantra**, focused on **web scraping & data automation**
-* 🤖 Interested in **Web Development**, **AI models**, and **real-world applications**
+* 💼 Completed **Student Internship at Gipra Business Solution Pvt. Ltd**, where I worked on my basics in **Web Development** using **Core PHP**, **CodeIgniter** and **XAMPP**.
+* 🤖 Interested in **Web Development**, **AI models** and **real-world applications**
 * 📚 IEEE Member since 2023:
 
   * **Council Coordinator** of IEEE RAS SBC ASIET
   * **SCT Member** of IEEE SB ASIET (2024)
-* 🙌 Volunteered at **DevFest Kochi**, **BRAHMA**, and other tech events
+* 🙌 Volunteered at **DevFest Kochi**, **BRAHMA** and other tech events
 * 👩‍💻 Looking forward to **collaborate on AI + Web-based projects**
-
 
 
 ### 🤝 Let's Connect
