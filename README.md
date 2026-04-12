@@ -4,12 +4,15 @@
 
 ### 💡 About Me
 
-* 🔭 Currently working on projects like **VIRA** (an AI + IoT-based safety system)
+* 🔭 Currently working on projects like **VIRA** (an AI + IoT-based safety system), **VOLT_AI**
 * 💻 Prior experience as an **R\&D Intern at DheeYantra**, focused on **web scraping & data automation**
 * 💼 Completed **Student Internship at Gipra Business Solution Pvt. Ltd**, where I worked on my basics in **Web Development** using **Core PHP**, **CodeIgniter** and **XAMPP**.
 * 🤖 Interested in **Web Development**, **AI models** and **real-world applications**
 * 📚 IEEE Member since 2023:
 
+  * **Women Entrepreneurship Lead** of IEDC ASIET
+  * **WiE AG Chairperson** of IEEE SB ASIET
+  * **Core Committee Member** of IEDC ASIET
   * **Council Coordinator** of IEEE RAS SBC ASIET
   * **SCT Member** of IEEE SB ASIET (2024)
 * 🙌 Volunteered at **DevFest Kochi**, **BRAHMA** and other tech events
