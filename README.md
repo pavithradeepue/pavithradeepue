@@ -50,6 +50,7 @@ class PavithraDeepuE:
     ]
 
     experience = [
+        "Research Intern @ CAIR,DRDO"
         "Student Intern @ Gipra Business Solution",
         "R&D Intern @ DheeYantra Research Labs"
     ]
